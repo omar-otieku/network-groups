@@ -1,0 +1,40 @@
+.network-regions-form {
+	max-width:400px;
+	margin: 30px 15px;
+}
+.network-regions-form #fieldlist div.field-box {
+	height:75px;
+	margin:10px 0;
+	padding: 10px 0;
+}
+
+.network-regions-form #fieldlist div.field-box, .network-regions-form #fieldlist div.field-box label {
+	clear: both;
+	display:block;
+}
+
+.network-regions-form #fieldlist div.field-box label {
+	font-weight:bold;
+}
+
+.network-regions-form #fieldlist div.field-box input[type="text"] {
+	display: block;
+	width: 250px;
+	height: 32px;
+	margin: 15px 0;
+	float: left;
+}
+
+.network-regions-form #fieldlist div.field-box a.delete-region {
+	display: block;
+	float: left;
+	clear: right;
+	margin: 24px 10px;
+}
+
+.network-regions-form input[type="submit"] {
+	display: block;
+	clear:both;
+	margin: 25px 0;
+}
+
