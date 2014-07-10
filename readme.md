@@ -14,3 +14,5 @@ Network Groups, is a multisite plugin for Wordpress that allows admins to create
 2. Navigate to the *Plugins* dashboard page
 3. Locate the menu item that reads *Network Groups*
 4. Click on *Activate*
+
+## Example
